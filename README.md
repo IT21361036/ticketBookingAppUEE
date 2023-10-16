@@ -11,7 +11,10 @@ The ticket Booking system is a web-based application that allows users to book T
   
 </p>
 
-
+to run the test case -> used -> npm test 
+path should be =>>> PS C:\Users\abeyr\Downloads\Compressed\ticketBookingApp-main\ticketBookingApp-main\backend> npm test
+to run the project =>>>> backend >>> npm start
+====================>>>> frontend >>> npm start
 **Server:** Node, Express, MongoDB Atlas
 
 **Client:** HTML, CSS ,Javascript,React.js
